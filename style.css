@@ -1,0 +1,25 @@
+body{
+
+    background-color: #1d2127;
+    color: white;
+    font-family: "Overpass Mono", "Helvetica Neue", Helvetica, sans-serif;
+    padding:    0;
+    margin:     0;
+
+}
+
+h1{
+    margin: 0 9 0 8px;
+}
+.bar{
+    background-color: #575858;
+    padding: 10px;
+    dislpay: flex;
+
+
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
